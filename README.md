@@ -1,4 +1,4 @@
-git clone https://github.com/rewqwerasdf//rewqwerasdf
+git clone https://github.com/rewqwerasdf/rewqwerasdf
 
 
 cd Js-kicker && npm install
