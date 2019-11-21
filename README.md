@@ -4,7 +4,7 @@ node-v12.13.1-x64
 
 
 
-git clone https://github.com/rewqwerasdf/line.git
+git clone https://github.com/rewqwerasdf/line/LineAlphatJS.git
 
 
 cd Js-kicker && npm install
