@@ -45,7 +45,7 @@ class Command extends LineAPI {
         let groupID;
         if(this.stateStatus.kick == 1) {
             //let updateGroup = await this._getGroup(this.messages.to);
-            //updateGroup.name = '愛愛降臨';
+            //updateGroup.name = '愛的降臨';
             //await this._updateGroup(updateGroup);
             //let msg = {
                 //text:null,
