@@ -41,7 +41,7 @@ class Command extends LineAPI {
         return;
     }
 
-    async kickAll() {
+    async hi() {
         let groupID;
         if(this.stateStatus.kick == 1) {
             //let updateGroup = await this._getGroup(this.messages.to);
